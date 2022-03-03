@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Bayle (@GabrielBayle)
-- 🌱 I’m PhD student in Environmental, Behavioral and Experimental Economics about natural Common Pool Resources
+- 🌱 I’m PhD student in Environmental, Behavioral and Experimental Economics about Common Pool Resources and Social Dilemmas
 - 📫 How to reach me : gabriel.bayle@umontpellier.fr
 
 <!---

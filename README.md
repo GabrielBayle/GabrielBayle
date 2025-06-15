@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Bayle (@GabrielBayle)
-- 🌱 I’m PhD student in Behavioral and Experimental Economics with a specific focus on situations involving social dilemmas.
-- 📫 How to reach me : gabriel.bayle@umontpellier.fr
+- 🌱 I’m Postdoctoral Fellow in GATE in Lyon, France in Experimental and Behavioral Economics with specific interests for social dilemmas, preferences and methodology.
+- 📫 How to reach me : gabriel.bayle.econ[@]gmail.com
 - Website: https://sites.google.com/view/gabrielbayle/welcome
 
 <!---
